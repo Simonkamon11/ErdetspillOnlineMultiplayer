@@ -2,19 +2,30 @@
 
 Erdetspill Online Multiplayer mod
 
+## Installing
+
+Download the Erdetspill Modloader hy Goglesser: https://github.com/Goglesser/Erdetmodloader/releases 
+
+Move the files in the zip-file to your erdetspill steamapp folder
+(usually located at "\Program Files (x86)\Steam\steamapps\common\erdetspill")
+
+Install by running the INSTALL_MODLOADER.bat file
+
+Place the ErdetFlerspiller zip-file (don't up-zip) in the "mods" folder
+
 ## Offline
-Skriv ditt ønskede spillernavn i spillernavn inputten som normalt, og trykk OFFLINE.
+Write your player name in the "spillernavn"-input like normal, and press OFFLINE.
 
 ## Online
-Skriv servernavnet inn i servernavn inputten, og trykk ONLINE.
+Write the server name in the "servernavn"-input, and press ONLINE
 
 ### Hosting:
-Hvis servernavnet ikke eksisterer i ErdetspillServerAPI-en, så lager du serveren og er Host.
+If the server name doesn't exist in the Erdetspill server API, you create the server and become host.
 
 ### Joining:
-Hvis servernavnet eksiterer i API-en, joiner du serveren.
+If the server does exist in the API, you join the server.
 
 ### Spillernavn:
-Når du velger ONLINE må du fortsatt ha et spillernavn. Skriv det inn i spillernavn inputten
+When you choose ONLINE, you still have to make a player name. Write it in the "spillernavn"-input
 
-Flere spillere kan ha samme navn uten problemer, fordi hver spiller får sin egen skjulte ID.
+Multiple players can have the same name, because every player has a hidden ID.
