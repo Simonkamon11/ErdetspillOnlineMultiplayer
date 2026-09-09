@@ -6,7 +6,7 @@ Erdetspill Online Multiplayer mod
 
 ### Modloader
 
-Download the Erdetspill Modloader hy Goglesser: https://github.com/Goglesser/Erdetmodloader/releases 
+Download the Erdetspill Modloader by Goglesser: https://github.com/Goglesser/Erdetmodloader/releases 
 
 Move the files in the zip-file to your erdetspill steamapp folder
 (usually located at "\Program Files (x86)\Steam\steamapps\common\erdetspill")
