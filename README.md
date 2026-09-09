@@ -31,7 +31,7 @@ If the server name doesn't exist in the Erdetspill server API, you create the se
 ### Joining:
 If the server does exist in the API, you join the server.
 
-### Spillernavn:
+### Player names:
 When you choose ONLINE, you still have to make a player name. Write it in the "spillernavn"-input
 
 Multiple players can have the same name, because every player has a hidden ID.
