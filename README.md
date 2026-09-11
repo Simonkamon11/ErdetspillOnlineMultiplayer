@@ -15,7 +15,7 @@ Install by running the INSTALL_MODLOADER.bat file.
 
 ### Online Multiplayer mod
 
-Download the Online Multiplayer mod.
+Download the ErdetFlerspiller (Online Multiplayer) mod.
 
 Place the ErdetFlerspiller zip-file (don't up-zip) in the "mods" folder.
 
