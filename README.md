@@ -35,3 +35,6 @@ If the server does exist in the API, you join the server.
 When you choose ONLINE, you still have to make a player name. Write it in the "spillernavn"-input.
 
 Multiple players can have the same name, because every player has a hidden ID.
+
+## Mod compatibility
+This mod is compatible with the text translation mod by Goglesser: https://github.com/Goglesser/ErDetTranslation/releases.
